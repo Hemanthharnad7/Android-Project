@@ -20,3 +20,4 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
+https://github.com/Hemanthharnad7/MyTodoList/blob/master/MyTodoList.gif
